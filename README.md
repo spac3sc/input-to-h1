@@ -9,4 +9,4 @@ This is my first project using successfully implementing JavaScript
 ![image](https://github.com/user-attachments/assets/66af5c91-57de-455d-8d4d-708b82154cbf)
 
 
-anyone can make this so IDK why you should be here
+IDK if I can even call this a project.
